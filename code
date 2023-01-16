@@ -10,7 +10,7 @@
               gesture-detector
              >
 Properties>
-      <a-marker type="pattern" preset="custom" url="https://mokosdaniel.github.io/ARPymol/pattern-3Dmarkerqrasimmetric.patt">        
+      <a-marker type="pattern" preset="custom" url="https://github.com/S1M0n23/AR/blob/main/pattern-marker.patt">        
 
    
         <a-entity
